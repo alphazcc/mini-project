@@ -1,0 +1,3 @@
+.vscode/
+*.o
+lvgl_demo
